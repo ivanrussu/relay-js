@@ -1,0 +1,20 @@
+{
+  "name": "relay-js",
+  "version": "1.0.0",
+  "description": "POST messages through websockets",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ivanrussu/relay-js.git"
+  },
+  "author": "Ivan Russu <2ivanrussu@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ivanrussu/relay-js/issues"
+  },
+  "homepage": "https://github.com/ivanrussu/relay-js#readme",
+  "dependencies": {
+    "socket.io-client": "^2.3.0"
+  }
+}
